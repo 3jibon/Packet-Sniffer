@@ -21,6 +21,9 @@ A Python-based **Network Packet Sniffer** using **Scapy** to capture and analyze
 
 ---
 
+![Image Description](asset/image.png)
+
+
 ## 🛠️ Installation
 
 ### Prerequisites
