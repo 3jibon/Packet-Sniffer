@@ -21,7 +21,7 @@ A Python-based **Network Packet Sniffer** using **Scapy** to capture and analyze
 
 ---
 
-![Image Description](/asset/image.png)
+![Image Description](/image.png)
 
 
 ## 🛠️ Installation
@@ -34,8 +34,8 @@ A Python-based **Network Packet Sniffer** using **Scapy** to capture and analyze
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/packet-sniffer.git
-   cd network-packet-sniffer
+   git clone https://github.com/3jibon/Packet-Sniffer.git
+   cd network-Packet-Sniffer
 2. **Run**:
    ```bash
    pip install -r requirements.txt
